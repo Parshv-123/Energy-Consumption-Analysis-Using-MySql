@@ -11,7 +11,7 @@ It uncovers insights on top emitters, economic growth, production vs. consumptio
 ## 🖼️ ER Diagram  
 
 <p align="center">
-  <img src="assets/er-diagram.png" alt="ER Diagram" width="650"/>
+  <img src="C:\Users\psait\Desktop\Data Science\SQL\SQL Project" alt="ER Diagram" width="650"/>
 </p>
 
 
