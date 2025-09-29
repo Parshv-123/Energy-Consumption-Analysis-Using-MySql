@@ -1,10 +1,5 @@
 # 🌍 Energy Consumption Analysis  
 
-## 👨‍💻 Author: **Parshv Saitwal**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/parshv-saitwal/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)](https://github.com/Parshv-123)  
-
 ---
 
 ## 📌 Overview  
@@ -19,11 +14,6 @@ It uncovers insights on top emitters, economic growth, production vs. consumptio
   <img src="assets/er-diagram.png" alt="ER Diagram" width="650"/>
 </p>
 
-> ⚠️ **Note:** Make sure the image file (`er-diagram.png`) is uploaded to your repo inside an `assets/` folder.  
-> If your image is in the root directory, just change the path to:  
-> ```markdown
-> <img src="er-diagram.png" alt="ER Diagram" width="650"/>
-> ```
 
 ---
 
